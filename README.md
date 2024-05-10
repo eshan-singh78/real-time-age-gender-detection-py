@@ -6,7 +6,7 @@ This Python script captures video from the default camera and detects the gender
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/eshan-singh78/real-time-age-gender-detection-py.git
    ```
 
 2. Navigate to the project directory:
